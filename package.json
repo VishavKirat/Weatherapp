@@ -1,0 +1,22 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "This is a weather app which includes various features",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^0.2.10",
+    "express": "^3.2.6",
+    "socket.io": "^0.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "vishavkiratsingh@gmail.com"
+  },
+  "author": "Vishav K. Singh",
+  "license": "ISC"
+}
